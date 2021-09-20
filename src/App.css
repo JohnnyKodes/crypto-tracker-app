@@ -363,6 +363,9 @@ a:hover {
 .crypto-card .crypto-image {
   width: 35px;
 }
+.crypto-image-small {
+  width: 20px;
+}
 .select-timeperiod {
   width: 200px !important;
   margin-top: 20px !important;
