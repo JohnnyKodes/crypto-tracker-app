@@ -15,7 +15,7 @@ const Exchanges = () => {
   if (isFetching) return <Loader />;
 
   return (
-    <>
+    <div className="page">
       <Row>
         <Col span={6}>Exchanges</Col>
         <Col span={6}>24h Trade Volume</Col>
@@ -55,7 +55,7 @@ const Exchanges = () => {
           </Col>
         ))}
       </Row>
-    </>
+    </div>
   );
 };
 

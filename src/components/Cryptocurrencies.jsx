@@ -22,7 +22,7 @@ const Cryptocurrencies = ({ simplified }) => {
   if (isFetching) return <Loader />;
 
   return (
-    <>
+    <div className={!simplified && "page"}>
       {!simplified && (
         <div className="search-crypto">
           <Input
@@ -49,7 +49,7 @@ const Cryptocurrencies = ({ simplified }) => {
           </Col>
         ))}
       </Row>
-    </>
+    </div>
   );
 };
 
