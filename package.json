@@ -2,7 +2,7 @@
   "name": "crypto-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/JohnnyKodes/crypto-tracker-app.git",
+  "homepage": "https://johnnykodes.github.io/crypto-tracker-app/",
   "dependencies": {
     "@ant-design/icons": "^4.6.4",
     "@reduxjs/toolkit": "^1.6.1",
