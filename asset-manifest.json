@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/JohnnyKodes/crypto-tracker-app.git/static/css/main.19910690.chunk.css",
+    "main.js": "/JohnnyKodes/crypto-tracker-app.git/static/js/main.71b615bc.chunk.js",
+    "main.js.map": "/JohnnyKodes/crypto-tracker-app.git/static/js/main.71b615bc.chunk.js.map",
+    "runtime-main.js": "/JohnnyKodes/crypto-tracker-app.git/static/js/runtime-main.e0e2a1c4.js",
+    "runtime-main.js.map": "/JohnnyKodes/crypto-tracker-app.git/static/js/runtime-main.e0e2a1c4.js.map",
+    "static/css/2.786ae0dd.chunk.css": "/JohnnyKodes/crypto-tracker-app.git/static/css/2.786ae0dd.chunk.css",
+    "static/js/2.d4d303c4.chunk.js": "/JohnnyKodes/crypto-tracker-app.git/static/js/2.d4d303c4.chunk.js",
+    "static/js/2.d4d303c4.chunk.js.map": "/JohnnyKodes/crypto-tracker-app.git/static/js/2.d4d303c4.chunk.js.map",
+    "index.html": "/JohnnyKodes/crypto-tracker-app.git/index.html",
+    "static/css/2.786ae0dd.chunk.css.map": "/JohnnyKodes/crypto-tracker-app.git/static/css/2.786ae0dd.chunk.css.map",
+    "static/css/main.19910690.chunk.css.map": "/JohnnyKodes/crypto-tracker-app.git/static/css/main.19910690.chunk.css.map",
+    "static/js/2.d4d303c4.chunk.js.LICENSE.txt": "/JohnnyKodes/crypto-tracker-app.git/static/js/2.d4d303c4.chunk.js.LICENSE.txt",
+    "static/media/cryptocurrency.1548aced.png": "/JohnnyKodes/crypto-tracker-app.git/static/media/cryptocurrency.1548aced.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e0e2a1c4.js",
+    "static/css/2.786ae0dd.chunk.css",
+    "static/js/2.d4d303c4.chunk.js",
+    "static/css/main.19910690.chunk.css",
+    "static/js/main.71b615bc.chunk.js"
+  ]
+}
